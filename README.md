@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinavm055/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abhinavm055/DSA-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abhinavm055/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
