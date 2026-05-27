@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhinavm055/DSA-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0229-majority-element-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Binary Search
 |  |
 | ------- |
