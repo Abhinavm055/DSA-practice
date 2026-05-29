@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinavm055/DSA-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Abhinavm055/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Abhinavm055/DSA-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhinavm055/DSA-practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Abhinavm055/DSA-practice/tree/master/0048-rotate-image) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavm055/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Abhinavm055/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Abhinavm055/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhinavm055/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhinavm055/DSA-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
