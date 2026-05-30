@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abhinavm055/DSA-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abhinavm055/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Abhinavm055/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhinavm055/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abhinavm055/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavm055/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Abhinavm055/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abhinavm055/DSA-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0229-majority-element-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abhinavm055/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhinavm055/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Abhinavm055/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0206-reverse-linked-list) |
 ## Trie
 |  |
