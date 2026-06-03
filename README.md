@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Abhinavm055/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0165-compare-version-numbers](https://github.com/Abhinavm055/DSA-practice/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhinavm055/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Abhinavm055/DSA-practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Abhinavm055/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/Abhinavm055/DSA-practice/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Abhinavm055/DSA-practice/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
