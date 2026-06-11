@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhinavm055/DSA-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhinavm055/DSA-practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
 |  |
 | ------- |
@@ -210,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhinavm055/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinavm055/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
