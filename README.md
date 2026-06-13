@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhinavm055/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Abhinavm055/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhinavm055/DSA-practice/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
