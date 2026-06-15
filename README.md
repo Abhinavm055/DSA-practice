@@ -233,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Abhinavm055/DSA-practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
