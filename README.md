@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhinavm055/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhinavm055/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Abhinavm055/DSA-practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinavm055/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Abhinavm055/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abhinavm055/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Abhinavm055/DSA-practice/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Abhinavm055/DSA-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Abhinavm055/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/Abhinavm055/DSA-practice/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Abhinavm055/DSA-practice/tree/master/0242-valid-anagram) |
