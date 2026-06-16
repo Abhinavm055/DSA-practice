@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Abhinavm055/DSA-practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Abhinavm055/DSA-practice/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinavm055/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Abhinavm055/DSA-practice/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Abhinavm055/DSA-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Abhinavm055/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Abhinavm055/DSA-practice/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/Abhinavm055/DSA-practice/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Abhinavm055/DSA-practice/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
