@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhinavm055/DSA-practice/tree/master/0242-valid-anagram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
