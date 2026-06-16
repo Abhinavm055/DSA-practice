@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhinavm055/DSA-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhinavm055/DSA-practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Abhinavm055/DSA-practice/tree/master/0089-gray-code) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Abhinavm055/DSA-practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/Abhinavm055/DSA-practice/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0090-subsets-ii) |
 ## Breadth-First Search
 |  |
