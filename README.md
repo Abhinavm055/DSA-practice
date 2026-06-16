@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhinavm055/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhinavm055/DSA-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhinavm055/DSA-practice/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0118-pascals-triangle) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhinavm055/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Abhinavm055/DSA-practice/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinavm055/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhinavm055/DSA-practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinavm055/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhinavm055/DSA-practice/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinavm055/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhinavm055/DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Abhinavm055/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinavm055/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0234-palindrome-linked-list) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhinavm055/DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Abhinavm055/DSA-practice/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
