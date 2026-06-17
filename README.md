@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhinavm055/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Abhinavm055/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavm055/DSA-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhinavm055/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhinavm055/DSA-practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavm055/DSA-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Math
 |  |
 | ------- |
