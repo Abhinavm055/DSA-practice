@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhinavm055/DSA-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0313-super-ugly-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Abhinavm055/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Abhinavm055/DSA-practice/tree/master/0496-next-greater-element-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Abhinavm055/DSA-practice/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinavm055/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0313-super-ugly-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhinavm055/DSA-practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Abhinavm055/DSA-practice/tree/master/0089-gray-code) |
+| [0313-super-ugly-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0313-super-ugly-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
 |  |
