@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavm055/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Abhinavm055/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhinavm055/DSA-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Abhinavm055/DSA-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhinavm055/DSA-practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Abhinavm055/DSA-practice/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhinavm055/DSA-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0313-super-ugly-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0313-super-ugly-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhinavm055/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhinavm055/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhinavm055/DSA-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Abhinavm055/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinavm055/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0234-palindrome-linked-list) |
