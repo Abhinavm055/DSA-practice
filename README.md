@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhinavm055/DSA-practice/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Abhinavm055/DSA-practice/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhinavm055/DSA-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0273-integer-to-english-words](https://github.com/Abhinavm055/DSA-practice/tree/master/0273-integer-to-english-words) |
 | [0313-super-ugly-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0313-super-ugly-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Abhinavm055/DSA-practice/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/Abhinavm055/DSA-practice/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Abhinavm055/DSA-practice/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/Abhinavm055/DSA-practice/tree/master/0273-integer-to-english-words) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhinavm055/DSA-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhinavm055/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Abhinavm055/DSA-practice/tree/master/0273-integer-to-english-words) |
 ## Counting
 |  |
 | ------- |
