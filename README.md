@@ -307,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavm055/DSA-practice/tree/master/1833-maximum-ice-cream-bars) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Abhinavm055/DSA-practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
