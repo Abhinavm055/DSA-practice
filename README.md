@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abhinavm055/DSA-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinavm055/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Abhinavm055/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abhinavm055/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Abhinavm055/DSA-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhinavm055/DSA-practice/tree/master/0053-maximum-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhinavm055/DSA-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavm055/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhinavm055/DSA-practice/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Abhinavm055/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinavm055/DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Abhinavm055/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavm055/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
