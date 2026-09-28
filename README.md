@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhinavm055/DSA-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Abhinavm055/DSA-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinavm055/DSA-practice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Abhinavm055/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0313-super-ugly-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Abhinavm055/DSA-practice/tree/master/1291-sequential-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Abhinavm055/DSA-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
