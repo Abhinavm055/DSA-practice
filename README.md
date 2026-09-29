@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavm055/DSA-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhinavm055/DSA-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavm055/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhinavm055/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinavm055/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/Abhinavm055/DSA-practice/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhinavm055/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Abhinavm055/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Abhinavm055/DSA-practice/tree/master/0130-surrounded-regions) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavm055/DSA-practice/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhinavm055/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhinavm055/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinavm055/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhinavm055/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
