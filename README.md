@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavm055/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhinavm055/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3838-weighted-word-mapping](https://github.com/Abhinavm055/DSA-practice/tree/master/3838-weighted-word-mapping) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhinavm055/DSA-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
