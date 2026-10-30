@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhinavm055/DSA-practice/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/Abhinavm055/DSA-practice/tree/master/0322-coin-change) |
+| [0841-keys-and-rooms](https://github.com/Abhinavm055/DSA-practice/tree/master/0841-keys-and-rooms) |
 ## Design
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Abhinavm055/DSA-practice/tree/master/0099-recover-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Abhinavm055/DSA-practice/tree/master/0130-surrounded-regions) |
+| [0841-keys-and-rooms](https://github.com/Abhinavm055/DSA-practice/tree/master/0841-keys-and-rooms) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhinavm055/DSA-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Simulation
 |  |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhinavm055/DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Abhinavm055/DSA-practice/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
